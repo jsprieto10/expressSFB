@@ -12,5 +12,8 @@
   "dependencies": {
     "expressjs": "^1.0.1",
     "request": "^2.85.0"
+  },
+  "engines": {
+    "node": "8.9.4"
   }
 }
